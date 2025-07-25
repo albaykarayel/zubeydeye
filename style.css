@@ -1,0 +1,54 @@
+body {
+    background-color: #272727;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.resim {
+    width: 50%;
+    max-width: 300px;
+}
+
+.header {
+    color: #fff;
+    font-size: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+    margin-right: 30%;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#moveButton {
+    position: absolute;
+}
+
+.yasasinVideo {
+    width: 60%;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.yasasinText {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#seviom {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
