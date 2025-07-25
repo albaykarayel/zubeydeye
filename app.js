@@ -22,7 +22,7 @@ trueButton.addEventListener("click", () => {
         <img src="albaycat.jpg">
         <p class="yasasinText">YAŞASIINNN</p>
         <p id="seviom">Tanıştığımıza memnun oldum bu çiçekler sanaa 🤍</p>
-        <audio autoplay loop>
+        <audio autoplay loop controls>
         <source src="0726.mp3" type="audio/mpeg">
         Tarayıcın <audio></audio> etiketini desteklemiyor :'(
         </audio>
